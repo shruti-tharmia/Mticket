@@ -1,0 +1,185 @@
+export const sleeperMockData = [
+  {
+    seatNo: 'L1',
+    status: 'available',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L2',
+    status: 'unavailable',
+    bookedGender: 'male',
+    selected: false,
+  },
+  {
+    seatNo: 'L3',
+    status: 'unavailable',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L4',
+    status: 'available',
+    bookedGender: 'male',
+    selected: false,
+  },
+  {
+    seatNo: 'L5',
+    status: 'available',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L6',
+    status: 'unavailable',
+    bookedGender: 'male',
+    selected: false,
+  },
+  {
+    seatNo: 'L7',
+    status: 'available',
+    bookedGender: 'male',
+    selected: false,
+  },
+  {
+    seatNo: 'L8',
+    status: 'available',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L9',
+    status: 'available',
+    bookedGender: 'male',
+    selected: false,
+  },
+  {
+    seatNo: 'L10',
+    status: 'unavailable',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L11',
+    status: 'available',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L12',
+    status: 'unavailable',
+    bookedGender: 'male',
+    selected: false,
+  },
+  {
+    seatNo: 'L13',
+    status: 'available',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L14',
+    status: 'unavailable',
+    bookedGender: 'male',
+    selected: false,
+  },
+  {
+    seatNo: 'L15',
+    status: 'available',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L16',
+    status: 'available',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L17',
+    status: 'unavailable',
+    bookedGender: 'male',
+    selected: false,
+  },
+  {
+    seatNo: 'L18',
+    status: 'available',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L17',
+    status: 'unavailable',
+    bookedGender: 'male',
+    selected: false,
+  },
+  {
+    seatNo: 'L18',
+    status: 'available',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L17',
+    status: 'unavailable',
+    bookedGender: 'male',
+    selected: false,
+  },
+  {
+    seatNo: 'L18',
+    status: 'available',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L17',
+    status: 'unavailable',
+    bookedGender: 'male',
+    selected: false,
+  },
+  {
+    seatNo: 'L18',
+    status: 'available',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L17',
+    status: 'unavailable',
+    bookedGender: 'male',
+    selected: false,
+  },
+  {
+    seatNo: 'L18',
+    status: 'available',
+    bookedGender: 'female',
+    selected: false,
+  },
+  {
+    seatNo: 'L17',
+    status: 'unavailable',
+    bookedGender: 'male',
+    selected: false,
+  },
+  {
+    seatNo: 'L18',
+    status: 'available',
+    bookedGender: 'female',
+    selected: false,
+  },
+];
+
+export const detailsContainer = [
+  {
+    classname: 'femaleAvailable detailsMain',
+    text: 'female',
+  },
+  {
+    classname: 'available detailsMain',
+    text: 'available',
+  },
+  {
+    classname: 'femaleUnavailable detailsMain',
+    text: 'booked(female)',
+  },
+];
